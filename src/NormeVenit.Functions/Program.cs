@@ -1,8 +1,8 @@
 ﻿// Copyright (c) Florin Bobis. All Rights Reserved.
 
-using NormeVenit.Library.Services;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using NormeVenit.Library.Services;
 
 namespace NormeVenit.Functions
 {
@@ -14,7 +14,7 @@ namespace NormeVenit.Functions
                 .ConfigureFunctionsWorkerDefaults()
                 .ConfigureServices((ctx, svc) =>
                 {
-                    svc.AddSingleton<ICaenService, CaenService>();
+                    svc.AddSingleton<INormeVenitService, NormeVenitService>();
                 })
                 .Build();
 
