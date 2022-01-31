@@ -24,13 +24,13 @@ namespace NormeVenit.Library.Services
             {
                 return null;
             }
-            return result.NormeVenit.FirstOrDefault(p => p.Judet == judet);
+            return result.NormeVenit.FirstOrDefault(p => p.Judet.ToLower() == judet.ToLower());
         }
 
         public int GetNormaVenit(string caen, string judet, TipLocalitate tip)
         {
             var result = list.FirstOrDefault(c => c.CAEN == caen)?
-                             .NormeVenit.FirstOrDefault(p => p.Judet == judet);
+                             .NormeVenit.FirstOrDefault(p => p.Judet.ToLower() == judet.ToLower());
             if (result == null)
             {
                 return -1;

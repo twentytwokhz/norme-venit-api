@@ -49,7 +49,7 @@ namespace NormeVenit.Functions.Api
                 else
                 {
                     response = req.CreateResponse(HttpStatusCode.OK);
-                    response.WriteString(result.ToString());
+                    await response.WriteAsJsonAsync<NormaVenit>(result);
                 }
             }
 
