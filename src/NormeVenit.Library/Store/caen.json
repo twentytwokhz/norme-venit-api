@@ -1,0 +1,206 @@
+﻿[
+  {
+    "CAEN": "1330",
+    "NormeVenit": [
+      {
+        "Judet": "Cluj",
+        "MunicipiuResedintaJudet": 28300,
+        "Municipiu": 28100,
+        "Oras": 28100,
+        "ComunaSat": 27700
+      }
+    ]
+  },
+  {
+    "CAEN": "4711",
+    "NormeVenit": [
+      {
+        "Judet": "Cluj",
+        "MunicipiuResedintaJudet": 47600,
+        "Municipiu": 39700,
+        "Oras": 36500,
+        "ComunaSat": 31800
+      }
+    ]
+  },
+  {
+    "CAEN": "4622",
+    "NormeVenit": [
+      {
+        "Judet": "Cluj",
+        "MunicipiuResedintaJudet": 33300,
+        "Municipiu": 29600,
+        "Oras": 27900,
+        "ComunaSat": 27700
+      }
+    ]
+  },
+  {
+    "CAEN": "4776",
+    "NormeVenit": [
+      {
+        "Judet": "Cluj",
+        "MunicipiuResedintaJudet": 39700,
+        "Municipiu": 36500,
+        "Oras": 36500,
+        "ComunaSat": 27700
+      }
+    ]
+  },
+  {
+    "CAEN": "4789",
+    "NormeVenit": [
+      {
+        "Judet": "Cluj",
+        "MunicipiuResedintaJudet": 28600,
+        "Municipiu": 28100,
+        "Oras": 28100,
+        "ComunaSat": 27700
+      }
+    ]
+  },
+  {
+    "CAEN": "4721",
+    "NormeVenit": [
+      {
+        "Judet": "Cluj",
+        "MunicipiuResedintaJudet": 28.300,
+        "Municipiu": 27.900,
+        "Oras": 27.900,
+        "ComunaSat": 27.700
+      }
+    ]
+  },
+  {
+    "CAEN": "4724",
+    "NormeVenit": [
+      {
+        "Judet": "Cluj",
+        "MunicipiuResedintaJudet": 41.300,
+        "Municipiu": 31.100,
+        "Oras": 28.900,
+        "ComunaSat": 28.100
+      }
+    ]
+  },
+  {
+    "CAEN": "4729",
+    "NormeVenit": [
+      {
+        "Judet": "Cluj",
+        "MunicipiuResedintaJudet": 41.300,
+        "Municipiu": 31.100,
+        "Oras": 28.900,
+        "ComunaSat": 28.100
+      }
+    ]
+  },
+  {
+    "CAEN": "4781",
+    "NormeVenit": [
+      {
+        "Judet": "Cluj",
+        "MunicipiuResedintaJudet": 47.500,
+        "Municipiu": 39.700,
+        "Oras": 36.500,
+        "ComunaSat": 31.800
+      }
+    ]
+  },
+  {
+    "CAEN": "4789",
+    "NormeVenit": [
+      {
+        "Judet": "Cluj",
+        "MunicipiuResedintaJudet": 31.800,
+        "Municipiu": 28.100,
+        "Oras": 28.100,
+        "ComunaSat": 28.100
+      }
+    ]
+  },
+  {
+    "CAEN": "4649",
+    "NormeVenit": [
+      {
+        "Judet": "Cluj",
+        "MunicipiuResedintaJudet": 42.900,
+        "Municipiu": 34.900,
+        "Oras": 34.900,
+        "ComunaSat": 31.800
+      }
+    ]
+  },
+  {
+    "CAEN": "4751",
+    "NormeVenit": [
+      {
+        "Judet": "Cluj",
+        "MunicipiuResedintaJudet": 41.300,
+        "Municipiu": 31.800,
+        "Oras": 31.800,
+        "ComunaSat": 30.200
+      }
+    ]
+  },
+  {
+    "CAEN": "4752",
+    "NormeVenit": [
+      {
+        "Judet": "Cluj",
+        "MunicipiuResedintaJudet": 31.800,
+        "Municipiu": 28.100,
+        "Oras": 28.100,
+        "ComunaSat": 28.100
+      }
+    ]
+  },
+  {
+    "CAEN": "4753",
+    "NormeVenit": [
+      {
+        "Judet": "Cluj",
+        "MunicipiuResedintaJudet": 42.900,
+        "Municipiu": 34.900,
+        "Oras": 34.900,
+        "ComunaSat": 30.200
+      }
+    ]
+  },
+  {
+    "CAEN": "4754",
+    "NormeVenit": [
+      {
+        "Judet": "Cluj",
+        "MunicipiuResedintaJudet": 47.500,
+        "Municipiu": 39.700,
+        "Oras": 39.700,
+        "ComunaSat": 33.300
+      }
+    ]
+  },
+  {
+    "CAEN": "4759",
+    "NormeVenit": [
+      {
+        "Judet": "Cluj",
+        "MunicipiuResedintaJudet": 74.600,
+        "Municipiu": 49.500,
+        "Oras": 43.400,
+        "ComunaSat": 43.000
+      }
+    ]
+  },
+  {
+    "CAEN": "4789",
+    "NormeVenit": [
+      {
+        "Judet": "Cluj",
+        "MunicipiuResedintaJudet": 28.600,
+        "Municipiu": 28.100,
+        "Oras": 28.100,
+        "ComunaSat": 27.700
+      }
+    ]
+  }
+]
