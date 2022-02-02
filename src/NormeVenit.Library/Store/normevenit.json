@@ -3201,5 +3201,222 @@
         "ComunaSat": 27.700
       }
     ]
+  },
+  {
+    "CAEN": "4329",
+    "NormeVenit": [
+      {
+        "CodActivitate": "LR096",
+        "Judet": "Cluj",
+        "MunicipiuResedintaJudet": 28.900,
+        "Municipiu": 28.100,
+        "Oras": 27.700,
+        "ComunaSat": 27.700
+      },
+      {
+        "CodActivitate": "LS110",
+        "Judet": "Cluj",
+        "MunicipiuResedintaJudet": 63.400,
+        "Municipiu": 58.700,
+        "Oras": 58.700,
+        "ComunaSat": 47.500
+      },
+      {
+        "CodActivitate": "LS142",
+        "Judet": "Cluj",
+        "MunicipiuResedintaJudet": 27.600,
+        "Municipiu": 27.600,
+        "Oras": 27.600,
+        "ComunaSat": 27.600
+      }
+    ]
+  },
+  {
+    "CAEN": "3099",
+    "NormeVenit": [
+      {
+        "CodActivitate": "LR097",
+        "Judet": "Cluj",
+        "MunicipiuResedintaJudet": 28.900,
+        "Municipiu": 28.100,
+        "Oras": 27.700,
+        "ComunaSat": 27.700
+      }
+    ]
+  },
+  {
+    "CAEN": "0161",
+    "NormeVenit": [
+      {
+        "CodActivitate": "LS100",
+        "Judet": "Cluj",
+        "MunicipiuResedintaJudet": 28.300,
+        "Municipiu": 28.100,
+        "Oras": 27.700,
+        "ComunaSat": 27.700
+      },
+      {
+        "CodActivitate": "LS140",
+        "Judet": "Cluj",
+        "MunicipiuResedintaJudet": 39.700,
+        "Municipiu": 31.100,
+        "Oras": 31.100,
+        "ComunaSat": 29.300
+      }
+    ]
+  },
+  {
+    "CAEN": "0163",
+    "NormeVenit": [
+      {
+        "CodActivitate": "LS100",
+        "Judet": "Cluj",
+        "MunicipiuResedintaJudet": 28.300,
+        "Municipiu": 28.100,
+        "Oras": 27.700,
+        "ComunaSat": 27.700
+      }
+    ]
+  },
+  {
+    "CAEN": "1011",
+    "NormeVenit": [
+      {
+        "CodActivitate": "LS101",
+        "Judet": "Cluj",
+        "MunicipiuResedintaJudet": 27.900,
+        "Municipiu": 27.700,
+        "Oras": 27.700,
+        "ComunaSat": 27.600
+      },
+      {
+        "CodActivitate": "LS123",
+        "Judet": "Cluj",
+        "MunicipiuResedintaJudet": 28.900,
+        "Municipiu": 28.100,
+        "Oras": 27.700,
+        "ComunaSat": 27.700
+      }
+    ]
+  },
+  {
+    "CAEN": "1013",
+    "NormeVenit": [
+      {
+        "CodActivitate": "LS101",
+        "Judet": "Cluj",
+        "MunicipiuResedintaJudet": 27.900,
+        "Municipiu": 27.700,
+        "Oras": 27.700,
+        "ComunaSat": 27.600
+      }
+    ]
+  },
+  {
+    "CAEN": "5530",
+    "NormeVenit": [
+      {
+        "CodActivitate": "LI057",
+        "Judet": "Cluj",
+        "MunicipiuResedintaJudet": 31.800,
+        "Municipiu": 31.400,
+        "Oras": 31.400,
+        "ComunaSat": 27.700
+      }
+    ]
+  },
+  {
+    "CAEN": "2720",
+    "NormeVenit": [
+      {
+        "CodActivitate": "LS105",
+        "Judet": "Cluj",
+        "MunicipiuResedintaJudet": 28.900,
+        "Municipiu": 28.100,
+        "Oras": 27.700,
+        "ComunaSat": 27.700
+      }
+    ]
+  },
+  {
+    "CAEN": "3314",
+    "NormeVenit": [
+      {
+        "CodActivitate": "LS105",
+        "Judet": "Cluj",
+        "MunicipiuResedintaJudet": 28.900,
+        "Municipiu": 28.100,
+        "Oras": 27.700,
+        "ComunaSat": 27.700
+      },
+      {
+        "CodActivitate": "LS135",
+        "Judet": "Cluj",
+        "MunicipiuResedintaJudet": 30.200,
+        "Municipiu": 28.600,
+        "Oras": 28.600,
+        "ComunaSat": 27.600
+      }
+    ]
+  },
+  {
+    "CAEN": "1101",
+    "NormeVenit": [
+      {
+        "CodActivitate": "LS106",
+        "Judet": "Cluj",
+        "MunicipiuResedintaJudet": 39.700,
+        "Municipiu": 39.700,
+        "Oras": 39.700,
+        "ComunaSat": 39.700
+      }
+    ]
+  },
+  {
+    "CAEN": "1104",
+    "NormeVenit": [
+      {
+        "CodActivitate": "LS106",
+        "Judet": "Cluj",
+        "MunicipiuResedintaJudet": 31.800,
+        "Municipiu": 31.400,
+        "Oras": 31.400,
+        "ComunaSat": 27.700
+      },
+      {
+        "CodActivitate": "LT155",
+        "Judet": "Cluj",
+        "MunicipiuResedintaJudet": 28.700,
+        "Municipiu": 28.300,
+        "Oras": 28.100,
+        "ComunaSat": 28.100
+      }
+    ]
+  },
+  {
+    "CAEN": "2829",
+    "NormeVenit": [
+      {
+        "CodActivitate": "LS109",
+        "Judet": "Cluj",
+        "MunicipiuResedintaJudet": 28.300,
+        "Municipiu": 28.100,
+        "Oras": 27.700,
+        "ComunaSat": 27.700
+      }
+    ]
+  },
+  {
+    "CAEN": "8425",
+    "NormeVenit": [
+      {
+        "CodActivitate": "LS109",
+        "Judet": "Cluj",
+        "MunicipiuResedintaJudet": 28.300,
+        "Municipiu": 28.100,
+        "Oras": 27.700,
+        "ComunaSat": 27.700
+      }
+    ]
   }
 ]
