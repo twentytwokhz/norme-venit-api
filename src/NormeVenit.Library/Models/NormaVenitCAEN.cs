@@ -1,7 +1,5 @@
 ﻿// Copyright (c) Florin Bobis. All Rights Reserved.
 
-using System.Text.Json.Serialization;
-
 namespace NormeVenit.Library.Models
 {
     public class NormaVenitCAEN
