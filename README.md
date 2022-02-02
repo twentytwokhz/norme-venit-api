@@ -1,12 +1,12 @@
 # Norme Venit API
 
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/twentytwokhz/caen-api)
-![GitHub Release Date](https://img.shields.io/github/release-date/twentytwokhz/caen-api)
-![GitHub issues](https://img.shields.io/github/issues/twentytwokhz/caen-api)
-![GitHub](https://img.shields.io/github/license/twentytwokhz/caen-api)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/twentytwokhz/norme-venit-api)
+![GitHub Release Date](https://img.shields.io/github/release-date/twentytwokhz/norme-venit-api)
+![GitHub issues](https://img.shields.io/github/issues/twentytwokhz/norme-venit-api)
+![GitHub](https://img.shields.io/github/license/twentytwokhz/norme-venit-api)
 
-![Lines of code](https://img.shields.io/tokei/lines/github/twentytwokhz/caen-api)
-[![Azure Static Web Apps CI/CD](https://github.com/twentytwokhz/caen-api/actions/workflows/azure-static-web-apps-lively-island-0c5aca203.yml/badge.svg)](https://github.com/twentytwokhz/caen-api/actions/workflows/azure-static-web-apps-lively-island-0c5aca203.yml)
+![Lines of code](https://img.shields.io/tokei/lines/github/twentytwokhz/norme-venit-api)
+[![Azure Static Web Apps CI/CD](https://github.com/twentytwokhz/norme-venit-api/actions/workflows/azure-static-web-apps-lively-island-0c5aca203.yml/badge.svg)](https://github.com/twentytwokhz/norme-venit-api/actions/workflows/azure-static-web-apps-lively-island-0c5aca203.yml)
 
 Acesta este un efort open-source pentru a democratiza găsirea normelor de venit bazate pe coduri CAEN din România.
 Orice persoană care dorește să găsească cuantumul normei de venit pentru un cod CAEN in proiecte personale e liber să folosească acest API.
@@ -23,20 +23,24 @@ Vizitați directorul [src](https://github.com/twentytwokhz/norme-venit-api/tree/
 
 > Notă: Parametrii cu `?` sunt opționali
 
-#### 1. Lista coduri CAEN Codes după secțiune/divizie/grup
+Tip Localitate:
 
-`https://norme-venit-api.florinbobis.me/api/caen/{sectionId?}/{divisionId?}/{groupId?}`
+- 0 = Municipiu Reședință de județ
+- 1 = Municipiu Nereședință de județ
+- 2 = Oraș
+- 3 = Comună sau sat
 
-- https://norme-venit-api.florinbobis.me/api/caen
-- https://norme-venit-api.florinbobis.me/api/caen/A
-- https://norme-venit-api.florinbobis.me/api/caen/A/1
-- https://norme-venit-api.florinbobis.me/api/caen/A/1/11
+#### 1. Lista norme de venit conform codului CAEN si judetului
 
-#### 2. Căutare cod CAEN
+`https://norme-venit-api.florinbobis.me/api/normavenit/{caen}/{judet}/{tipActivitate}`
 
-`https://norme-venit-api.florinbobis.me/api/search/{searchTerm}`
+- https://norme-venit-api.florinbobis.me/api/normavenit/2219/cluj/lc019/
 
-- https://norme-venit-api.florinbobis.me/api/search/plant
+#### 2. Norma de venit conform codului CAEN, judetului si tipului de localitate
+
+`https://norme-venit-api.florinbobis.me/api/normavenit/{caen}/{judet}/{tipActivitate}/{tipLocalitate?}`
+
+- https://norme-venit-api.florinbobis.me/api/normavenit/2219/cluj/lc019/0
 
 ---
 ## Sursă date
