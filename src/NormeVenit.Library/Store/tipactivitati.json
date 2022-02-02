@@ -1,0 +1,522 @@
+﻿[
+  {
+    "CodActivitate": "LB002",
+    "Denumire": "Boiangerie"
+  },
+  {
+    "CodActivitate": "4711",
+    "Denumire": "Comerţ cu amănuntul în magazine nespecializate, cu vânzare predominantă de produse alimentare, băuturi şi tutun"
+  },
+  {
+    "CodActivitate": "LC005",
+    "Denumire": "Comerţ cu plante medicinale, seminţe de legume, fructe şi flori"
+  },
+  {
+    "CodActivitate": "LC006",
+    "Denumire": "Comerţ cu produse agricole şi alimentare"
+  },
+  {
+    "CodActivitate": "LC007",
+    "Denumire": "Comerţ cu obiecte de uz casnic şi unelte gospodăreşti"
+  },
+  {
+    "CodActivitate": "LC008",
+    "Denumire": "Comerţ cu îmbrăcăminte şi încălţăminte nouă şi uzată"
+  },
+  {
+    "CodActivitate": "LC009",
+    "Denumire": "Comerţ cu ambalaje din sticlă"
+  },
+  {
+    "CodActivitate": "LC010",
+    "Denumire": "Comerţ cu casete audio video CD şi DVD"
+  },
+  {
+    "CodActivitate": "4743",
+    "Denumire": "Comerţ cu amănuntul al echipamentelor audio/video, în magazine specializate"
+  },
+  {
+    "CodActivitate": "LC011",
+    "Denumire": "Comerţ cu animale şi păsări vii"
+  },
+  {
+    "CodActivitate": "LC012",
+    "Denumire": "Comerţ cu lână, piei crude"
+  },
+  {
+    "CodActivitate": "LR098",
+    "Denumire": "Comercializare de stuf"
+  },
+  {
+    "CodActivitate": "LC035",
+    "Denumire": "Comercializarea câinilor şi pisicilor de rasă, păsărilor ornamentale, broaştelor ţestoase, a animalelor pentru blană şi a altor animale de companie, inclusiv hrana specifică acestora"
+  },
+  {
+    "CodActivitate": "LC016",
+    "Denumire": "Comercializare de flori naturale/artificiale şi confecţionare şi/sau comercializare de aranjamente florale din flori naturale/artificiale"
+  },
+  {
+    "CodActivitate": "5030",
+    "Denumire": "Comercializare piese şi accesorii pentru autovehicule"
+  },
+  {
+    "CodActivitate": "LC014",
+    "Denumire": "Confecţionare şi/sau comercializare de încălţăminte"
+  },
+  {
+    "CodActivitate": "LC015",
+    "Denumire": "Confecţionare, comercializare şi/sau reparare de obiecte din lemn, fire textile, materiale textile, deşeuri textile, piele, plastic, ceramică, aluminiu, cupru, sârmă, cauciuc, sticlă, fibră de sticlă, hârtie, papură, nuiele, trestie, paie, iască, foi de porumb, ceară, os, sfoară, plută, stuf"
+  },
+  {
+    "CodActivitate": "LC017",
+    "Denumire": "Confecţionare şi/sau reparaţii de obiecte de uz casnic, gospodăresc şi ornamental"
+  },
+  {
+    "CodActivitate": "LC019",
+    "Denumire": "Confecţionare şi/sau comercializare de garnituri pentru etanşare"
+  },
+  {
+    "CodActivitate": "LC020",
+    "Denumire": "Confecţionare şi/sau comercializare de obiecte metalice şi de mecanică fină"
+  },
+  {
+    "CodActivitate": "LC021",
+    "Denumire": "Confecţionare şi/sau comercializare de obiecte din beton, ciment, marmură, piatră, ipsos, argilă, cărămizi, ţigle, vălătuci şi din alte materiale şi/sau produse pentru construcţii"
+  },
+  {
+    "CodActivitate": "LC022",
+    "Denumire": "Confecţionare şi/sau comercializare de hamuri şi harnaşamente"
+  },
+  {
+    "CodActivitate": "LC023",
+    "Denumire": "Confecţionare şi/sau reparare de obiecte din blană şi cojocărie"
+  },
+  {
+    "CodActivitate": "LC024",
+    "Denumire": "Confecţionare şi/sau reparare de bijuterii din metale şi pietre preţioase"
+  },
+  {
+    "CodActivitate": "LC025",
+    "Denumire": "Confecţionare şi/sau comercializare de gablonţuri, mărţişoare şi felicitări"
+  },
+  {
+    "CodActivitate": "LC004",
+    "Denumire": "Confecţionare şi/sau comercializare de pălării, şepci şi/sau articole de ceaprăzărie"
+  },
+  {
+    "CodActivitate": "LC027",
+    "Denumire": "Confecţionare şi/sau comercializare de rame, încadrări tablouri şi oglinzi"
+  },
+  {
+    "CodActivitate": "LC028",
+    "Denumire": "Confecţionare şi/sau reparaţii de articole de marochinărie şi de voiaj de orice fel"
+  },
+  {
+    "CodActivitate": "LC029",
+    "Denumire": "Confecţionare, acordări şi/ sau reparaţii de instrumente muzicale"
+  },
+  {
+    "CodActivitate": "LC030",
+    "Denumire": "Confecţionare şi/sau comercializare de mături şi perii"
+  },
+  {
+    "CodActivitate": "LC031",
+    "Denumire": "Confecţionare şi/sau comercializare de unelte de pescuit"
+  },
+  {
+    "CodActivitate": "LC032",
+    "Denumire": "Confecţionare şi/sau reparaţii ambarcaţiuni"
+  },
+  {
+    "CodActivitate": "LC033",
+    "Denumire": "Copiere acte"
+  },
+  {
+    "CodActivitate": "LC013",
+    "Denumire": "Creşterea şi/sau comercializarea cu peşti exotici şi accesorii de acvaristică, inclusiv hrana specifică"
+  },
+  {
+    "CodActivitate": "LC037",
+    "Denumire": "Croitorie, Corsetărie"
+  },
+  {
+    "CodActivitate": "LD039",
+    "Denumire": "Dactilografiere şi stenografiere"
+  },
+  {
+    "CodActivitate": "LD040",
+    "Denumire": "Dărăcit şi/ sau toarcere"
+  },
+  {
+    "CodActivitate": "LD042",
+    "Denumire": "Demontare (dezasamblare) de autovehicule şi comercializare de piese auto uzate"
+  },
+  {
+    "CodActivitate": "LD043",
+    "Denumire": "Dogărie"
+  },
+  {
+    "CodActivitate": "LD044",
+    "Denumire": "Dresura de animale"
+  },
+  {
+    "CodActivitate": "LD045",
+    "Denumire": "Dulgherie, tâmplărie şi comercializare de bârne, grinzi, suporţi pentru construcţii"
+  },
+  {
+    "CodActivitate": "LE046",
+    "Denumire": "Extracţia şi comercializarea pietrei, pietrişului, nisipului, argilei"
+  },
+  {
+    "CodActivitate": "1551",
+    "Denumire": "Fabricarea produselor lactate şi a brânzeturilor"
+  },
+  {
+    "CodActivitate": "LF047",
+    "Denumire": "Fântânărie"
+  },
+  {
+    "CodActivitate": "LF048",
+    "Denumire": "Fierărie - potcovărie"
+  },
+  {
+    "CodActivitate": "LF049",
+    "Denumire": "Fotografiere, fotocopiere şi fotoceramică"
+  },
+  {
+    "CodActivitate": "LI051",
+    "Denumire": "Instalare, montare, reparare, închiriere de aparate de măsură şi control"
+  },
+  {
+    "CodActivitate": "LI058",
+    "Denumire": "Închirieri de biciclete, motoscutere, mijloace de transport auto şi pe apă, parapante, ski-jet-uri şi material sportiv"
+  },
+  {
+    "CodActivitate": "LI053",
+    "Denumire": "Închiriere de cort şi/sau veselă, de rochii de gală, de mireasă şi pentru diferite ocazii"
+  },
+  {
+    "CodActivitate": "LI055",
+    "Denumire": "Închirieri de casete audio-video CD si DVD"
+  },
+  {
+    "CodActivitate": "LI056",
+    "Denumire": "Închiriere de camere în scop turistic"
+  },
+  {
+    "CodActivitate": "LI059",
+    "Denumire": "Întreţinere şi reparare şi/sau recondiţionare autovehicule şi utilaje agricole, inclusiv piese auto"
+  },
+  {
+    "CodActivitate": "LI060",
+    "Denumire": "Intermedieri în turism"
+  },
+  {
+    "CodActivitate": "LL061",
+    "Denumire": "Lăcătuşerie"
+  },
+  {
+    "CodActivitate": "LL062",
+    "Denumire": "Legare de cărţi"
+  },
+  {
+    "CodActivitate": "LL063",
+    "Denumire": "Lucrări de escavare"
+  },
+  {
+    "CodActivitate": "LO064",
+    "Denumire": "Organizare de cursuri sportive, de activităţi de întreţinere şi înfrumuseţare fizică"
+  },
+  {
+    "CodActivitate": "LO065",
+    "Denumire": "Organizare de activităţi distractive în discoteci, distracţii populare şi zodiac cu papagal"
+  },
+  {
+    "CodActivitate": "LP066",
+    "Denumire": "Producerea şi/sau comercializarea produselor de panificaţie, patiserie, gogoşerie, covrigărie, cofetărie"
+  },
+  {
+    "CodActivitate": "LP070",
+    "Denumire": "Prelucrare piei,prepararea si vopsirea blanurilor"
+  },
+  {
+    "CodActivitate": "LP071",
+    "Denumire": "Prepararea cărbunelui din lemn"
+  },
+  {
+    "CodActivitate": "LP072",
+    "Denumire": "Producere şi/sau comercializare de var"
+  },
+  {
+    "CodActivitate": "LP075",
+    "Denumire": "Producere şi/sau reparare de cazane şi căldări"
+  },
+  {
+    "CodActivitate": "LP076",
+    "Denumire": "Producere şi/sau comercializare de articole de feronerie"
+  },
+  {
+    "CodActivitate": "LP077",
+    "Denumire": "Producere şi/sau comercializare de floricele de porumb, castane prăjite, porumb fiert, seminţe prăjite de floarea soarelui şi dovleac, dovleac copt, vată de zahăr, borş"
+  },
+  {
+    "CodActivitate": "LP078",
+    "Denumire": "Producere şi/sau comercializare de îngheţată, gemuri, marmelade, jeleuri şi conservare a fructelor prin uscare"
+  },
+  {
+    "CodActivitate": "LP079",
+    "Denumire": "Producere şi/sau comercializare de paste făinoase, macaroane, spaghete, tăiţei"
+  },
+  {
+    "CodActivitate": "LP080",
+    "Denumire": "Producere şi/sau comercializare de obiecte de artizanat"
+  },
+  {
+    "CodActivitate": "LP081",
+    "Denumire": "Producere şi/sau comercializare de frânghii, sfori şi şnururi din fibre sau fâşii textile"
+  },
+  {
+    "CodActivitate": "LP082",
+    "Denumire": "Producere, comercializare şi/sau reparare de mobilă, inclusiv de scaune, banchete, fotolii, canapele, mese,dulapuri"
+  },
+  {
+    "CodActivitate": "LP083",
+    "Denumire": "Producţie, comercializare şi/sau reparare jocuri şi jucării"
+  },
+  {
+    "CodActivitate": "LP084",
+    "Denumire": "Producere şi/sau comercializare de coloranţi, esenţe alimentare condimente şi ingrediente"
+  },
+  {
+    "CodActivitate": "LP085",
+    "Denumire": "Paza şi îngrijirea animalelor, inclusiv în stâni şi cirezi"
+  },
+  {
+    "CodActivitate": "LP086",
+    "Denumire": "Pescuit şi comercializare de peşte"
+  },
+  {
+    "CodActivitate": "LR090",
+    "Denumire": "Reparare brichete, montat supapă şi umplere cu gaz"
+  },
+  {
+    "CodActivitate": "LR091",
+    "Denumire": "Reparare ceasuri, bijuterii, stilouri, umbrele, ochelari"
+  },
+  {
+    "CodActivitate": "LR092",
+    "Denumire": "Reparare aparate foto, radio, Tv, calculatoare, maşini de scris, cântare, telefoane, echipamente de comunicaţii, alte aparate electronice de uz caznic, inclusiv frigidere, aragaze, maşini de spălat, alte dispozitive şi echipamente pentru casă şi gradină"
+  },
+  {
+    "CodActivitate": "LR094",
+    "Denumire": "Reparare şi întreţinere moto-velo"
+  },
+  {
+    "CodActivitate": "LR095",
+    "Denumire": "Reparare şi recondiţionare încălţăminte"
+  },
+  {
+    "CodActivitate": "LR096",
+    "Denumire": "Reparare şi/sau întreţinere ascensoare de persoane şi de mărfuri"
+  },
+  {
+    "CodActivitate": "LR097",
+    "Denumire": "Rotărie şi/sau executare de caroserii din lemn"
+  },
+  {
+    "CodActivitate": "LS100",
+    "Denumire": "Servicii de bătut porumb cu maşina"
+  },
+  {
+    "CodActivitate": "LS101",
+    "Denumire": "Servicii de afumare carne şi slănină"
+  },
+  {
+    "CodActivitate": "LI057",
+    "Denumire": "Servicii de amplasare de corturi, rulote şi altele"
+  },
+  {
+    "CodActivitate": "LS102",
+    "Denumire": "Servicii de cântărire"
+  },
+  {
+    "CodActivitate": "LS105",
+    "Denumire": "Servicii de formatare şi încărcare baterii auto, acumulatori şi pile electrice"
+  },
+  {
+    "CodActivitate": "LS106",
+    "Denumire": "Servicii executate de proprietarii de cazane pentru fabricat rachiuri naturale"
+  },
+  {
+    "CodActivitate": "LS108",
+    "Denumire": "Servicii de strungărie, frezare, alezare"
+  },
+  {
+    "CodActivitate": "LS109",
+    "Denumire": "Servicii de încărcat stingătoare"
+  },
+  {
+    "CodActivitate": "LS110",
+    "Denumire": "Servicii executate pentru instalaţii de apă, gaz, încălzire termică, canal, electricitate, frigotehnice, izolaţii la construcţii"
+  },
+  {
+    "CodActivitate": "LS112",
+    "Denumire": "Servicii de încărcat sifoane"
+  },
+  {
+    "CodActivitate": "LS113",
+    "Denumire": "Servicii de incubare ouă"
+  },
+  {
+    "CodActivitate": "LS114",
+    "Denumire": "Servicii de reproducţie şi selecţia în creşterea animalelor"
+  },
+  {
+    "CodActivitate": "LS116",
+    "Denumire": "Servicii executate de ipsosari"
+  },
+  {
+    "CodActivitate": "LS118",
+    "Denumire": "Servicii executate de lustragii"
+  },
+  {
+    "CodActivitate": "LS120",
+    "Denumire": "Servicii executate de tehnicieni veterinari"
+  },
+  {
+    "CodActivitate": "LS122",
+    "Denumire": "Servicii de frizerie, coafură, cosmetică, manichiură, pedichiură, masaj"
+  },
+  {
+    "CodActivitate": "LS123",
+    "Denumire": "Servicii executate de măcelari"
+  },
+  {
+    "CodActivitate": "LS124",
+    "Denumire": "Servicii de morărit şi urluit"
+  },
+  {
+    "CodActivitate": "LS125",
+    "Denumire": "Servicii executate de mozaicari, faianţari, parchetari, zidari, zugravi, geamgii"
+  },
+  {
+    "CodActivitate": "LS127",
+    "Denumire": "Servicii de întreţinere şi curăţare a clădirilor, inclusiv menaj casnic"
+  },
+  {
+    "CodActivitate": "LS128",
+    "Denumire": "Servicii de tinichigerie (fără auto) inclusiv cele de învelirea cu tablă, ţiglă, sită a construcţiilor"
+  },
+  {
+    "CodActivitate": "LS129",
+    "Denumire": "Servicii de dezinfecţie, dezinsecţie şi deratizare"
+  },
+  {
+    "CodActivitate": "LS131",
+    "Denumire": "Servicii executate de meditatori"
+  },
+  {
+    "CodActivitate": "LS132",
+    "Denumire": "Servicii executate de organizatori de expoziţii şi spectacole "
+  },
+  {
+    "CodActivitate": "LS133",
+    "Denumire": "Servicii de plisat, gofrat, ajurat, stopări"
+  },
+  {
+    "CodActivitate": "LS134",
+    "Denumire": "Servicii executate cu pive"
+  },
+  {
+    "CodActivitate": "LS135",
+    "Denumire": "Servicii de presare metale la rece, bobinare"
+  },
+  {
+    "CodActivitate": "LS136",
+    "Denumire": "Servicii executate cu uleiniţe"
+  },
+  {
+    "CodActivitate": "LS137",
+    "Denumire": "Servicii executate de bucătari"
+  },
+  {
+    "CodActivitate": "LS138",
+    "Denumire": "Servicii de pompe funebre"
+  },
+  {
+    "CodActivitate": "LS139",
+    "Denumire": "Servicii executate de instructori auto"
+  },
+  {
+    "CodActivitate": "LS140",
+    "Denumire": "Servicii executate în agricultură, manual sau cu mijloace mecanice"
+  },
+  {
+    "CodActivitate": "LS141",
+    "Denumire": "Servicii executate de rectificatori, sculeri, matriţeri, sudori, machetişti, fierari - betonişti, tinichigii"
+  },
+  {
+    "CodActivitate": "LS142",
+    "Denumire": "Servicii executate de sobari, teracotari, coşari"
+  },
+  {
+    "CodActivitate": "LS146",
+    "Denumire": "Servicii de spălătorie si curăţătorie a produselor din textile şi din blănuri"
+  },
+  {
+    "CodActivitate": "LS148",
+    "Denumire": "Servicii de tinichigerie,vopsitorie,electricitate auto, spălătorie auto, lustruire şi ceruire auto"
+  },
+  {
+    "CodActivitate": "LS149",
+    "Denumire": "Servicii de vânzare ziare, reviste, cărţi"
+  },
+  {
+    "CodActivitate": "LS150",
+    "Denumire": "Servicii de supraveghere şi îngrijire copii sau alte persoane aflate la nevoie"
+  },
+  {
+    "CodActivitate": "LS104",
+    "Denumire": "Servicii executate in domeniul informaticii, altele decat cele care genereaza drepturi de autor sau drepturi conexe drepturilor de autor"
+  },
+  {
+    "CodActivitate": "LT151",
+    "Denumire": "Tăiat lemne cu ferestrău portabil sau circular"
+  },
+  {
+    "CodActivitate": "LT152",
+    "Denumire": "Tăiere şi şlefuire piatră"
+  },
+  {
+    "CodActivitate": "LT154",
+    "Denumire": "Ţesut covoare, preşuri"
+  },
+  {
+    "CodActivitate": "LT155",
+    "Denumire": "Tescuire"
+  },
+  {
+    "CodActivitate": "LT158",
+    "Denumire": "Tocilărie"
+  },
+  {
+    "CodActivitate": "LT125",
+    "Denumire": "Transporturi de mărfuri şi persoane, inclusiv mijloace de transport cu tracţiune animală"
+  },
+  {
+    "CodActivitate": "LT160",
+    "Denumire": "Transporturi auto cu taxiuri pentru mărfuri şi persoane, mai puţin cea efectuată în regim de maxi-taxi"
+  },
+  {
+    "CodActivitate": "LT161",
+    "Denumire": "Transporturi de pasageri şi/sau marfă pe căi navigabile interioare"
+  },
+  {
+    "CodActivitate": "LV162",
+    "Denumire": "Vulcanizare"
+  },
+  {
+    "CodActivitate": "LV163",
+    "Denumire": "Vopsire, emailare şi cositorie"
+  }
+]
