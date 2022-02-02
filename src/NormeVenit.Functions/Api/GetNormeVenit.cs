@@ -21,36 +21,20 @@ namespace NormeVenit.Functions.Api
         [Function("normavenit/{caen}/{judet}/{tip?}")]
         public async Task<HttpResponseData> Run(
             [HttpTrigger(AuthorizationLevel.Function, "get")] HttpRequestData req,
-            string caen, string judet, TipLocalitate? tip)
+            string caen, string judet, string tipActivitate)
         {
             HttpResponseData response = req.CreateResponse();
             response.Headers.Add("Content-Type", "application/json; charset=utf-8");
 
-            if (tip.HasValue)
+            var result = normeVenitService.GetNormaVenit(caen, judet, tipActivitate);
+            if (result == null)
             {
-                var result = normeVenitService.GetNormaVenit(caen, judet, tip.Value);
-                if (result == -1)
-                {
-                    response.StatusCode = HttpStatusCode.NotFound;
-                }
-                else
-                {
-                    response = req.CreateResponse(HttpStatusCode.OK);
-                    response.WriteString(result.ToString());
-                }
+                response.StatusCode = HttpStatusCode.NotFound;
             }
             else
             {
-                var result = normeVenitService.GetNormaVenit(caen, judet);
-                if (result == null)
-                {
-                    response.StatusCode = HttpStatusCode.NotFound;
-                }
-                else
-                {
-                    response = req.CreateResponse(HttpStatusCode.OK);
-                    await response.WriteAsJsonAsync<NormaVenit>(result);
-                }
+                response = req.CreateResponse(HttpStatusCode.OK);
+                await response.WriteAsJsonAsync<NormaVenit>(result);
             }
 
             return response;

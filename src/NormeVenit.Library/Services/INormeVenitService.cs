@@ -6,7 +6,6 @@ namespace NormeVenit.Library.Services
 {
     public interface INormeVenitService
     {
-        int GetNormaVenit(string caen, string judet, TipLocalitate tip);
-        NormaVenit? GetNormaVenit(string caen, string judet);
+        NormaVenit? GetNormaVenit(string caen, string judet, string codActivitate = null);
     }
 }
