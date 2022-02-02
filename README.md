@@ -6,7 +6,7 @@
 ![GitHub](https://img.shields.io/github/license/twentytwokhz/norme-venit-api)
 
 ![Lines of code](https://img.shields.io/tokei/lines/github/twentytwokhz/norme-venit-api)
-[![Azure Static Web Apps CI/CD](https://github.com/twentytwokhz/norme-venit-api/actions/workflows/azure-static-web-apps-lively-island-0c5aca203.yml/badge.svg)](https://github.com/twentytwokhz/norme-venit-api/actions/workflows/azure-static-web-apps-lively-island-0c5aca203.yml)
+[![Azure Static Web Apps CI/CD](https://github.com/twentytwokhz/norme-venit-api/actions/workflows/azure-static-web-apps-ashy-water-07abb6e03.yml/badge.svg)](https://github.com/twentytwokhz/norme-venit-api/actions/workflows/azure-static-web-apps-ashy-water-07abb6e03.yml)
 
 Acesta este un efort open-source pentru a democratiza găsirea normelor de venit bazate pe coduri CAEN din România.
 Orice persoană care dorește să găsească cuantumul normei de venit pentru un cod CAEN in proiecte personale e liber să folosească acest API.
