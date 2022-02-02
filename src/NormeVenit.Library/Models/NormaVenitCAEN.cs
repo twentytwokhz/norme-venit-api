@@ -19,4 +19,12 @@ namespace NormeVenit.Library.Models
         public int Oras { get; set; }
         public int ComunaSat { get; set; }
     }
+
+    public enum TipLocalitate
+    {
+        MunicipiuResedintaJudet = 0,
+        Municipiu = 1,
+        Oras = 2,
+        ComunaSat = 3,
+    }
 }

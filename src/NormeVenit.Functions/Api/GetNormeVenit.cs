@@ -19,23 +19,39 @@ namespace NormeVenit.Functions.Api
             this.normeVenitService = normeVenitService;
         }
 
-        [Function("normavenit/{caen}/{judet}/{tipActivitate?}")]
+        [Function("normavenit/{caen}/{judet}/{codActivitate?}/{tipLocalitate?}")]
         public async Task<HttpResponseData> Run(
             [HttpTrigger(AuthorizationLevel.Function, "get")] HttpRequestData req,
-            string caen, string judet, string tipActivitate)
+            string caen, string judet, string codActivitate, TipLocalitate? tipLocalitate)
         {
             HttpResponseData response = req.CreateResponse();
             response.Headers.Add("Content-Type", "application/json; charset=utf-8");
 
-            var result = normeVenitService.GetNormaVenit(caen, judet, tipActivitate);
-            if (result == null)
+            if (tipLocalitate.HasValue)
             {
-                response.StatusCode = HttpStatusCode.NotFound;
+                var result = normeVenitService.GetNormaVenit(caen, judet, codActivitate, tipLocalitate.Value);
+                if (result == -1)
+                {
+                    response.StatusCode = HttpStatusCode.NotFound;
+                }
+                else
+                {
+                    response = req.CreateResponse(HttpStatusCode.OK);
+                    await response.WriteAsJsonAsync<int>(result);
+                }
             }
             else
             {
-                response = req.CreateResponse(HttpStatusCode.OK);
-                await response.WriteAsJsonAsync<List<NormaVenit>>(result);
+                var result = normeVenitService.GetNormaVenit(caen, judet, codActivitate);
+                if (result == null)
+                {
+                    response.StatusCode = HttpStatusCode.NotFound;
+                }
+                else
+                {
+                    response = req.CreateResponse(HttpStatusCode.OK);
+                    await response.WriteAsJsonAsync<List<NormaVenit>>(result);
+                }
             }
 
             return response;
