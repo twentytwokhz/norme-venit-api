@@ -1,5 +1,6 @@
 ﻿// Copyright (c) Florin Bobis. All Rights Reserved.
 
+using System.Collections.Generic;
 using System.Net;
 using System.Threading.Tasks;
 using Microsoft.Azure.Functions.Worker;
@@ -18,7 +19,7 @@ namespace NormeVenit.Functions.Api
             this.normeVenitService = normeVenitService;
         }
 
-        [Function("normavenit/{caen}/{judet}/{tip?}")]
+        [Function("normavenit/{caen}/{judet}/{tipActivitate?}")]
         public async Task<HttpResponseData> Run(
             [HttpTrigger(AuthorizationLevel.Function, "get")] HttpRequestData req,
             string caen, string judet, string tipActivitate)
@@ -34,7 +35,7 @@ namespace NormeVenit.Functions.Api
             else
             {
                 response = req.CreateResponse(HttpStatusCode.OK);
-                await response.WriteAsJsonAsync<NormaVenit>(result);
+                await response.WriteAsJsonAsync<List<NormaVenit>>(result);
             }
 
             return response;

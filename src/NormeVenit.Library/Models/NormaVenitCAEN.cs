@@ -6,9 +6,7 @@ namespace NormeVenit.Library.Models
 {
     public class NormaVenitCAEN
     {
-        [JsonPropertyName("CAEN")]
         public string CAEN { get; set; }
-        [JsonPropertyName("NormeVenit")]
         public List<NormaVenit> NormeVenit { get; set; } = new List<NormaVenit>();
     }
 

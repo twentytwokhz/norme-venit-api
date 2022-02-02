@@ -17,16 +17,17 @@ namespace NormeVenit.Library.Services
             list = normeVenitStore.Deserialize<List<NormaVenitCAEN>>();
         }
 
-        public NormaVenit? GetNormaVenit(string caen, string judet, string codActivitate = null)
+        public List<NormaVenit> GetNormaVenit(string caen, string judet, string codActivitate = null)
         {
             var result = list.FirstOrDefault(c => c.CAEN == caen);
             if (result == null)
             {
                 return null;
             }
-            return result.NormeVenit.FirstOrDefault(p =>
+            return result.NormeVenit.Where(p =>
                 p.Judet.ToLower() == judet.ToLower() &&
-                codActivitate != null ? p.CodActivitate.ToLower() == codActivitate.ToLower() : true);
+                codActivitate != null ? p.CodActivitate.ToLower() == codActivitate.ToLower() : true)
+                .ToList();
         }
     }
 }
