@@ -23,6 +23,8 @@ Vizitați directorul [src](https://github.com/twentytwokhz/norme-venit-api/tree/
 
 > Notă: Parametrii cu `?` sunt opționali
 
+> Notă: Momentan există date disponibile **doar** pentru județul Cluj
+
 Tip Localitate:
 
 - 0 = Municipiu Reședință de județ
